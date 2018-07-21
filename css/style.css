@@ -1,0 +1,15 @@
+.img-redonda {
+    border-radius: 10%;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.text-justif {
+    justify-items: initial
+}
+.body-color{
+    background-color: darkblue
+}
